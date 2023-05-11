@@ -1,4 +1,4 @@
-package com.example.nonottetetete.;
+package com.example.nonottetetete;
 
 import androidx.appcompat.app.AppCompatActivity;
 
